@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activity4</string>
+    <string name="loginForm">LOGIN FORM</string>
+    <string name="text_Username">Username</string>
+    <string name="text_Password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="text_logo">Icon Login</string>
+</resources>
